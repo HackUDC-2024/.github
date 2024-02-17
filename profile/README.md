@@ -11,6 +11,14 @@ UnPlug, born from the innovative energy of [HackUDC](https://hackudc.gpul.org/),
 🛠 *Our Tools:*
 - Open-source and built on trust, we leverage FOSS tools like [doctr](https://github.com/mindee/doctr) for OCR capabilities and [StableLM Zephyr-3b](https://huggingface.co/stabilityai/stablelm-zephyr-3b) from StabilityAI for generating insights, ensuring your data remains secure and private.
 
+📝 Why GPL?
+
+The GPL (GNU General Public License) is a popular choice for open-source projects like ours for several reasons:
+
+1. **Protects Freedom**: The GPL ensures that users have the freedom to use, study, modify, and distribute the software.
+
+2. **Community Collaboration**: By using the GPL, we encourage collaboration within the community. Anyone can contribute to the project, leading to faster development and innovation.
+
 💡 *Get Involved:*
 We believe in the power of community to drive innovation. Whether you're a developer, a data scientist, or just someone passionate about energy conservation, there's a place for you here. Explore [our projects](https://github.com/orgs/HackUDC-2024/repositories), contribute, and help us make energy management accessible to everyone.
 
