@@ -20,6 +20,6 @@ The GPL (GNU General Public License) is a popular choice for open-source project
 2. **Community Collaboration**: By using the GPL, we encourage collaboration within the community. Anyone can contribute to the project, leading to faster development and innovation.
 
 💡 *Get Involved:*
-We believe in the power of community to drive innovation. Whether you're a developer, a data scientist, or just someone passionate about energy conservation, there's a place for you here. Explore [our projects](https://github.com/orgs/HackUDC-2024/repositories), contribute, and help us make energy management accessible to everyone.
+We believe in the power of community to drive innovation. Whether you're a developer, a data scientist, or just someone passionate about energy conservation, there's a place for you here. Explore [our projects](https://github.com/orgs/HackUDC-2024/repositories), check out [the CONTRIBUTING.md](.github/CONTRIBUTING.md), and help us make energy management accessible to everyone.
 
 🌿 *Join Us in Building a Sustainable Future.*
